@@ -36,11 +36,12 @@ Application implements also four models as Kotlin data classes: User, Room, Meet
 
 <img src="https://user-images.githubusercontent.com/725242/159729519-173aa366-0f4d-4e06-9005-89cd77d4782b.png" width = "200">
 
-
-
 ## Application Limitations
 
-
+* Firebase Project is in Test Mode limited time (until early April)
+* Application itself is targeted only for managing meetings. Thus managing users or rooms is done in Firebase.
+* Finding a new meeting time is limited for five consecutiven weekdays, and only between 8:00 - 17:00. Also the meeting length is limited to full hours.
 
 ## Some Screen Captures
+
 
