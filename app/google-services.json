@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131432965458",
+    "project_id": "gofore-test",
+    "storage_bucket": "gofore-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131432965458:android:c01160cec708a8321d068b",
+        "android_client_info": {
+          "package_name": "salot.kari.testfirebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131432965458-k8hbduh46vmfavi97nokvl7me2a5tsbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB4f8I12HT0sqGshnBgDLjdUxlpVJYf3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131432965458-k8hbduh46vmfavi97nokvl7me2a5tsbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Gofore Scheduler</string>
+    <string name="getB">Get users</string>
+    <string name="showB">Show users</string>
+    <string name="writeB">Store user</string>
+    <string name="getR">Get rooms</string>
+    <string name="showR">Show rooms</string>
+    <string name="vum">View User Meetings</string>
+    <string name="nm">Add New Meeting</string>
+    <string name="cm">Create a New Meeting</string>
+    <string name="intro">Book your meeting by providing participants, length of the meeting, meeting room and purpose"</string>
+    <string name="mparticipants">Who will participate into meeting?</string>
+    <string name="mlength">How many hours will the meeting last?</string>
+    <string name="mroom">Which meeting room you will use?</string>
+    <string name="mpurpose">What is the purpose of the meeting?</string>
+    <string name="mphint">Write here the purpose</string>
+    <string name="home">This is a simple meeting scheduling app. You can check user meetings, create a new meeting, which can be added to device calendar</string>
+    <string name="note">NOTE: when you are done, click the Done Button before you try to add new meeting or check another user meetings! </string>
+    <string name="done">Done</string>
+    <string name="lparticipants">Whose meetings you would like see?</string>
+    <string name="getM">Get Meetings</string>
+</resources>
