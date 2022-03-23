@@ -26,12 +26,13 @@ and another implementing the business logic related viewing participant's meetin
 Communication between ViewModels and Views is implemented using Observer pattern and LiveData objects
 
 There is one Repository for organizing the access to data. Data itself is stored in Firestore (Cloud Firestore is a NoSQL document database).
+There are four collections in Firestore: Rooms, Meetings, Users and Counter. Counter is to used to implement meeting id automation.
 
 <img src="https://user-images.githubusercontent.com/725242/159728183-34e4edfc-1149-4ccf-bd9e-a2aff0c940fa.png" height = "300">
 
 Communication between ViewModels and Repository, and between Repository and Firestore is implemented using Kotlin coroutines and suspended functions.
 
-Application implements four models as Kotlin data classes: User, Room, Meeting and CalendarEvent
+Application implements also four models as Kotlin data classes: User, Room, Meeting and CalendarEvent
 
 
 
