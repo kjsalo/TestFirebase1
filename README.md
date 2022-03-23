@@ -45,21 +45,16 @@ Application implements also four models as Kotlin data classes: User, Room, Meet
 ## Some Screen Captures
 <img src="https://user-images.githubusercontent.com/725242/159733797-8961cf77-d4af-4007-a09f-5c4191c3a27a.png" width = "200">
 
-<img src="https://user-images.githubusercontent.com/725242/159733816-ea28f260-ff7d-417d-9900-19ef8adddfcb.png)
+<img src="https://user-images.githubusercontent.com/725242/159733816-ea28f260-ff7d-417d-9900-19ef8adddfcb.png" width = "200">
 
-<img src="https://user-images.githubusercontent.com/725242/159733834-f91db6d4-5908-4a9e-9b70-9a69a2d51625.png)
+<img src="https://user-images.githubusercontent.com/725242/159733834-f91db6d4-5908-4a9e-9b70-9a69a2d51625.png" width = "200">
 
-<img src="https://user-images.githubusercontent.com/725242/159733842-7117ccfe-e884-4804-9022-c054a64cbc7b.png)
+<img src="https://user-images.githubusercontent.com/725242/159733842-7117ccfe-e884-4804-9022-c054a64cbc7b.png" width = "200">
 
-<img src="https://user-images.githubusercontent.com/725242/159733853-3aef62ca-5e70-4f4f-87f8-6dfc81215c2c.png)
+<img src="https://user-images.githubusercontent.com/725242/159733853-3aef62ca-5e70-4f4f-87f8-6dfc81215c2c.png" width = "200">
 
-<img src="https://user-images.githubusercontent.com/725242/159733871-c223824a-21c3-4e8d-8a14-34c11fd90669.png)
+<img src="https://user-images.githubusercontent.com/725242/159733871-c223824a-21c3-4e8d-8a14-34c11fd90669.png" width = "200">
 
-<img src="https://user-images.githubusercontent.com/725242/159733881-d63ecc7f-a67f-4f81-92d8-1823dd0b41d1.png)
+<img src="https://user-images.githubusercontent.com/725242/159733881-d63ecc7f-a67f-4f81-92d8-1823dd0b41d1.png" width = "200">
 
-<img src="https://user-images.githubusercontent.com/725242/159733891-1be7563b-c172-4a9d-9a87-3d1fd425281c.png)
-
-
-
-
-
+<img src="https://user-images.githubusercontent.com/725242/159733891-1be7563b-c172-4a9d-9a87-3d1fd425281c.png" width = "200">
