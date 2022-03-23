@@ -25,6 +25,11 @@ There are two ViewModels, one implementing the business logic of creating a new 
 and another implementing the business logic related viewing participant's meetings.
 Communication between ViewModels and Views is implemented using Observer pattern and LiveData objects
 
+There is one Repository for organizing the access to data. Data itself is stored in Firestore (Cloud Firestore is a NoSQL document database).
+Communication between ViewModels and Repository, and between Repository and Firestore is implemented using Kotlin coroutines and suspended functions.
+
+Application implements four models as Kotlin data classes: User, Room, Meeting and CalendarEvent
+
 
 
 
