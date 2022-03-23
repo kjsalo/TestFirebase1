@@ -34,6 +34,7 @@ Communication between ViewModels and Repository, and between Repository and Fire
 
 Application implements also four models as Kotlin data classes: User, Room, Meeting and CalendarEvent
 
+<img src="https://user-images.githubusercontent.com/725242/159729519-173aa366-0f4d-4e06-9005-89cd77d4782b.png" width = "200">
 
 
 
